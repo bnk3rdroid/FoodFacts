@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="colorOverlay">#EF9E9E9E</color>
+
+    <color name="colorGradeA">#00796B</color>
+    <color name="colorGradeB">#009688</color>
+    <color name="colorGradeC">#E2B90B</color>
+    <color name="colorGradeD">#C91914</color>
+    <color name="colorGradeE">#963000</color>
+</resources>

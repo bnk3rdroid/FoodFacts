@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Food Facts</string>
+
+    <string name="title_food_list">Rechercher un produit</string>
+    <string name="title_food_detail">Détails</string>
+
+    <string name="network_error_message">"ERREUR\nRESEAU"</string>
+
+    <string name="refresh">Rafraîchir</string>
+
+    <string name="food_is_found">Produit trouvé !</string>
+    <string name="food_not_found">Produit non trouvé</string>
+    <string name="allergens">Allergènes</string>
+    <string name="ingredients">Ingrédients</string>
+    <string name="visit_website">Visiter le site officiel</string>
+    <string name="manufacturer_title">Manufacture</string>
+    <string name="grade_title">Grade nutrition</string>
+    <string name="search_product">Code (Ex: 3329770057258)</string>
+    <string name="card_food_see_details">Voir les détails</string>
+    <string name="product_not_in_db">Le produit n\'est pas dans la base de données.</string>
+    <string name="incompatible_nougat_message">Après investigation, la version Android Nougat ne pourra pas être supportée par cette application.</string>
+    <string name="incompatible_nougat_visit_website">Visiter la page officielle</string>
+    <string name="history">Historique</string>
+    <string name="no_history">Vide</string>
+
+</resources>
